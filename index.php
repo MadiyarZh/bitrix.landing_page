@@ -5,4 +5,10 @@ $APPLICATION->SetPageProperty("NOT_SHOW_NAV_CHAIN", "Y");
 $APPLICATION->SetTitle("Каталог книг");
 ?> 
 
+<body>
+	
+
+	dsvfd
+</body>
+
 <?require($_SERVER["DOCUMENT_ROOT"]."/bitrix/footer.php");?>
