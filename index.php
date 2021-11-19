@@ -1,21 +1,9 @@
 <?
 require($_SERVER["DOCUMENT_ROOT"]."/bitrix/header.php");
+$APPLICATION->SetTitle("Мой сайт");
 ?> 
-	<header class="container header_class">
-		<a href="#" class="logo">
-			<img src="local/templates/blog/assets/img/main_logo.png">
-		</a>
-		<div>
-			<ul class="main_menu">
-				<li>О нас</li>
-				<li>Портфолио</li>
-				<li>Тариф</li>
-				<li>Блог</li>
-				<li>Контакты</li>
-			</ul>
-		</div>
-	</header>
-	<div class="container">
+	
+
 		<div class="main_block">
 			<div class="main_title">
 				<h1>Команда разрабочиков</h1>
@@ -115,6 +103,6 @@ require($_SERVER["DOCUMENT_ROOT"]."/bitrix/header.php");
 				</div>
 			</div>
 		</div>
-	</div>
+	
 
 <?require($_SERVER["DOCUMENT_ROOT"]."/bitrix/footer.php");?>

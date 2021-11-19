@@ -1,9 +1,9 @@
 
-
 .header_class {
     display: flex;
     align-items: center;
     margin-top: 22px;
+    margin-bottom: 50px;
 }
 
 .main_menu {
@@ -19,6 +19,31 @@
 	font-weight: 500;
 	font-size: 14px;
 	line-height: 20px;
+}
+
+.main_menu li a {
+	color: #18191F;
+	text-decoration: none !important;
+}
+
+.main_menu li:first-child a:hover, .main_menu li:first-child a.selected {
+	border-bottom: 2px solid #fe9a22;
+}
+
+.main_menu li:nth-child(2) a:hover, .main_menu li:nth-child(2) a.selected {
+	border-bottom: 2px solid #2EC5CE;
+}
+
+.main_menu li:nth-child(3) a:hover, .main_menu li:nth-child(3) a.selected {
+	border-bottom: 2px solid #F22BB2;
+}
+
+.main_menu li:nth-child(4) a:hover, .main_menu li:nth-child(4) a.selected {
+	border-bottom: 2px solid #8C30F5;
+}
+
+.main_menu li:nth-child(5) a:hover, .main_menu li:nth-child(5) a.selected {
+	border-bottom: 2px solid #0B0D17;
 }
 
 .main_title {

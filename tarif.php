@@ -1,0 +1,4 @@
+<?
+require($_SERVER["DOCUMENT_ROOT"]."/bitrix/header.php");
+$APPLICATION->SetTitle("Тариф");
+?>We don't always think about it, but there is art all around us. Look around your home. Do you have towels? How'd they get there? There are no towel trees growing in the rainforest. Somebody had to design that towel--select those colors, create the patterns, choose the materials, etc. The same can be said of your carpets, the fabrics on your furniture, even your curtains. Have you ever noticed how many styles of curtains there are? These different styles were all designed by somebody. That somebody is a&nbsp;textile designer, a person responsible for the aesthetic characteristics of fabrics or cloths. These artists have more impact on your daily life than you probably ever realized. Just look around.<?require($_SERVER["DOCUMENT_ROOT"]."/bitrix/footer.php");?>
